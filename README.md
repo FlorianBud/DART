@@ -1,2 +1,0 @@
-# DART
-Dart Training 
